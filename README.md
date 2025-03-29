@@ -16,7 +16,6 @@ This project demonstrates a chatbot powered by the GPT-2 model, enabling human-l
 1. Clone the repository:
         bash
     git clone https://github.com/GENSHEHU/GPT2_CHATBOT.git
-    cd Pretrained_GPT2_ChatBot
     
 
 2. Create and activate a virtual environment:
